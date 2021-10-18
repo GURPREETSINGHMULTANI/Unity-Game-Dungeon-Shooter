@@ -1,0 +1,1000 @@
+fileFormatVersion: 2
+guid: b9559137b1bf8e546b5e5904a271300b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6264977939228144178
+    second: GothicVaniaPlayerSpriteAtlas_0
+  - first:
+      213: -1459954236781417116
+    second: GothicVaniaPlayerSpriteAtlas_1
+  - first:
+      213: -268188341986597777
+    second: GothicVaniaPlayerSpriteAtlas_2
+  - first:
+      213: 2162150391848664029
+    second: GothicVaniaPlayerSpriteAtlas_3
+  - first:
+      213: 2457742472424084991
+    second: GothicVaniaPlayerSpriteAtlas_4
+  - first:
+      213: 420342165566500503
+    second: GothicVaniaPlayerSpriteAtlas_5
+  - first:
+      213: -3533112918548106035
+    second: GothicVaniaPlayerSpriteAtlas_6
+  - first:
+      213: 1862298399342714557
+    second: GothicVaniaPlayerSpriteAtlas_7
+  - first:
+      213: 807366927453615786
+    second: GothicVaniaPlayerSpriteAtlas_8
+  - first:
+      213: -2514398240080479500
+    second: GothicVaniaPlayerSpriteAtlas_9
+  - first:
+      213: -3200606690101325251
+    second: GothicVaniaPlayerSpriteAtlas_10
+  - first:
+      213: 6658512592796617078
+    second: GothicVaniaPlayerSpriteAtlas_11
+  - first:
+      213: -8756727585413691050
+    second: GothicVaniaPlayerSpriteAtlas_12
+  - first:
+      213: -5686566904007973331
+    second: GothicVaniaPlayerSpriteAtlas_13
+  - first:
+      213: 1975715705353851910
+    second: GothicVaniaPlayerSpriteAtlas_14
+  - first:
+      213: 4067538412259215054
+    second: GothicVaniaPlayerSpriteAtlas_15
+  - first:
+      213: 2130039713707727917
+    second: GothicVaniaPlayerSpriteAtlas_16
+  - first:
+      213: -1604753896997550365
+    second: GothicVaniaPlayerSpriteAtlas_17
+  - first:
+      213: 3974699555202003440
+    second: GothicVaniaPlayerSpriteAtlas_18
+  - first:
+      213: -1051054976766068213
+    second: GothicVaniaPlayerSpriteAtlas_19
+  - first:
+      213: -1972966252322364164
+    second: GothicVaniaPlayerSpriteAtlas_20
+  - first:
+      213: 8675049807662039137
+    second: GothicVaniaPlayerSpriteAtlas_21
+  - first:
+      213: -4039502500445187971
+    second: GothicVaniaPlayerSpriteAtlas_22
+  - first:
+      213: -5789496630257804359
+    second: GothicVaniaPlayerSpriteAtlas_23
+  - first:
+      213: -3552433796242609421
+    second: GothicVaniaPlayerSpriteAtlas_24
+  - first:
+      213: 6097245865003069552
+    second: GothicVaniaPlayerSpriteAtlas_25
+  - first:
+      213: 6689964809231891742
+    second: GothicVaniaPlayerSpriteAtlas_26
+  - first:
+      213: -6094071229224016097
+    second: GothicVaniaPlayerSpriteAtlas_27
+  - first:
+      213: -311773188316006165
+    second: GothicVaniaPlayerSpriteAtlas_28
+  - first:
+      213: -4108568814046580945
+    second: GothicVaniaPlayerSpriteAtlas_29
+  - first:
+      213: 2989532363058150713
+    second: GothicVaniaPlayerSpriteAtlas_30
+  - first:
+      213: 3187833278889422679
+    second: GothicVaniaPlayerSpriteAtlas_31
+  - first:
+      213: 5873710889532126837
+    second: GothicVaniaPlayerSpriteAtlas_32
+  - first:
+      213: -3968649212970514362
+    second: GothicVaniaPlayerSpriteAtlas_33
+  - first:
+      213: 8394692608387179207
+    second: GothicVaniaPlayerSpriteAtlas_34
+  - first:
+      213: 4460403749776289587
+    second: GothicVaniaPlayerSpriteAtlas_35
+  - first:
+      213: 2496518189062370979
+    second: GothicVaniaPlayerSpriteAtlas_36
+  - first:
+      213: -1933483883861033906
+    second: GothicVaniaPlayerSpriteAtlas_37
+  - first:
+      213: 7090187991207452015
+    second: GothicVaniaPlayerSpriteAtlas_38
+  - first:
+      213: -8087534773348075938
+    second: GothicVaniaPlayerSpriteAtlas_39
+  - first:
+      213: -5572781354791919461
+    second: GothicVaniaPlayerSpriteAtlas_40
+  - first:
+      213: -1064970345999869593
+    second: GothicVaniaPlayerSpriteAtlas_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 544
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc5aee1c35e09a0800000000000000
+      internalID: -6264977939228144178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 546
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d21585b533dbbe0800000000000000
+      internalID: -1459954236781417116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ecf6bf14374cf0800000000000000
+      internalID: -268188341986597777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 483
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb7c196350810e10800000000000000
+      internalID: 2162150391848664029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 483
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55a3ac1c7ab1220800000000000000
+      internalID: 2457742472424084991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 483
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea5b6f8fa55d500800000000000000
+      internalID: 420342165566500503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 484
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6754261f7543b00800000000000000
+      internalID: 807366927453615786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 435
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab22c5f101b1dd0800000000000000
+      internalID: -2514398240080479500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 435
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3295c24c292593d0800000000000000
+      internalID: -3200606690101325251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 378
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6798b12cce9c76c50800000000000000
+      internalID: 6658512592796617078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 377
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598d8cf7aad97680800000000000000
+      internalID: -8756727585413691050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 301
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ac1f87814511b0800000000000000
+      internalID: -5686566904007973331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 300
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604d6ca57f62b6b10800000000000000
+      internalID: 1975715705353851910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 240
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec687fc92acc27830800000000000000
+      internalID: 4067538412259215054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 240
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c160d85db6f8d10800000000000000
+      internalID: 2130039713707727917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 239
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6898145d4cab9e0800000000000000
+      internalID: -1604753896997550365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 239
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f7b4cf28f82730800000000000000
+      internalID: 3974699555202003440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 181
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab37e3117e961f0800000000000000
+      internalID: -1051054976766068213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ed7095ad9e94e0800000000000000
+      internalID: -1972966252322364164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 121
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160448276d7f36870800000000000000
+      internalID: 8675049807662039137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 120
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7099a7c0edc0f7c0800000000000000
+      internalID: -4039502500445187971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb99252d7397afa0800000000000000
+      internalID: -5789496630257804359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 120
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faeddea84833bec0800000000000000
+      internalID: -3552433796242609421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 120
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0703ab34fc4cd9450800000000000000
+      internalID: 6097245865003069552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d712e8c8787dc50800000000000000
+      internalID: 6689964809231891742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ac2a31828d6ba0800000000000000
+      internalID: -6094071229224016097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8fee3efeb5cabf0800000000000000
+      internalID: -311773188316006165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 60
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f61878e6e6bf6c0800000000000000
+      internalID: -4108568814046580945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 60
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f6f5f2a757d3c20800000000000000
+      internalID: 3187833278889422679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 60
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f7eb0fec938150800000000000000
+      internalID: 5873710889532126837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64842ce41968ce8c0800000000000000
+      internalID: -3968649212970514362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e3894370ff7470800000000000000
+      internalID: 8394692608387179207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f6c34049986ed30800000000000000
+      internalID: 4460403749776289587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63d5ad01a65a220800000000000000
+      internalID: 2496518189062370979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3583d6a2ea25e0800000000000000
+      internalID: -1933483883861033906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GothicVaniaPlayerSpriteAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d19ae9968656260800000000000000
+      internalID: 7090187991207452015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: e6c7a9d1929e3c84688dfa77cadf8cbe, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
