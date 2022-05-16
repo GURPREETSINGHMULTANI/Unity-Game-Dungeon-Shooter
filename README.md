@@ -2,7 +2,7 @@
 
 ## Description 
 
-Designed and created 2D Dungeon Shooter game using Unity Game Engine. The game consists of multiple levels, awesome looking graphics, and multiple challenges for users to stay interested in the game. Build using C# and created many scripts to handle complex in-game logic. Utilized shaders to create stunning graphics with cool effects. Designed complex animations and audio clips to improve the user-experience.
+Designed and created 2D Dungeon Shooter game using Unity Game Engine. The game consists of multiple levels, awesome looking graphics, and multiple challenges for users to stay interested in the game. Build using C# and created many scripts to handle complex in-game logic. Optimized assets and dependencies to improve performance of game by using UnityAssetCleaner, Unity Profiler, Unity Profile Analyzer, Tree Map, and various Unity tools. Utilized shaders to create stunning graphics with cool effects. Designed complex animations and audio clips to improve the user-experience.
 
 ## Illustrations
 
